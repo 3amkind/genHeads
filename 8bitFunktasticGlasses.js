@@ -1,3 +1,8 @@
+//
+// genHeads – The 8-bit Funktastic Glasses
+//
+// Use this file in the p5.js editor – https://editor.p5js.org/
+//
 function setup() {
   createCanvas(400, 400);
 }
